@@ -5,7 +5,7 @@ if (name === "Susan") {
 else if (name === "Joe")
     console.log ("Thats right")}
 else (name === "Sam")
-    console.log ("Nope its actually different")
+    console.log ("Nope its actually different")}
   
 }
 
