@@ -5,8 +5,9 @@ var height = "74"
     console.log ("The name aint correct")
     }
     
-    //else if (name === "Joe")
-    //console.log ("Thats right")}
+    else if {
+      (name === "Joe")
+    console.log ("Thats right")}
     
     //else (name === "Sam")
     //console.log ("Nope its actually different")}
