@@ -5,15 +5,17 @@ var height = "74"
     console.log ("The name aint correct")
     }
     
-    else  if{
+    else if {
+    (name === "Sam")
+    console.log ("Nope its actually different")
+    }
+    
+    else {
     (name === "Joe")
     console.log ("Thats right")
     }
     
-    else {
-    (name === "Sam")
-    console.log ("Nope its actually different")
-    }
+    
   
 
 
