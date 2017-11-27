@@ -7,7 +7,6 @@ else if (name === "Joe")
 else (name === "Sam")
     console.log ("Nope its actually different")}
   
-}
 
 
 // Don't worry about this
